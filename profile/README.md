@@ -20,3 +20,98 @@ Interested in joining our community or contributing to our projects? We'd love t
 
 
 Feel free to reach out to us if you have any questions or if you're interested in becoming part of our community. Let's fast-track our journey to becoming the best developers together!
+
+<div align="center">
+    <h1>Projects</h1>
+</div>
+
+<div align="center">
+  <kbd>
+      <a href="https://github.com/FS-FAST-TRACK/QuizMaster" target="_blank">
+          <img width="200" height="200" src="https://raw.githubusercontent.com/FS-FAST-TRACK/QuizMaster/e852f2372619dd8c8a13d39d1f1757a51de762ec/WebApp/frontend/quiz_session/public/logo/Logo1.svg">
+          <h3 align="center">QuizMaster Web</h3>
+      </a>
+  </kbd>
+  &nbsp;
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/FS-FAST-TRACK/QuizMaster" target="_blank">
+          <img width="200" height="200" src="https://raw.githubusercontent.com/FS-FAST-TRACK/QuizMaster/e852f2372619dd8c8a13d39d1f1757a51de762ec/WebApp/frontend/quiz_session/public/logo/Logo1.svg">
+          <h3 align="center">QuizMaster Mobile</h3>
+      </a>
+  </kbd>
+</div>
+
+<div align="center">
+    <h1>Visionary Codemasters</h1>
+</div>
+
+
+<div align="center">
+  <kbd>
+      <a href="https://github.com/JMark-FS" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/109047754?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/jaymar921" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/72720429?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/ha-rold1999" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/64396407?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/jumapaoA" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/113645884?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/sempitrnal" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/100173985?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/sotesneal" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/104602886?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/kinloveko" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/114684059?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/raisondetre1207" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/91072520?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/TanedoChristian" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/43995343?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/swtmply" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/53966880?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/extella" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/18098246?s=128&v=4">
+      </a>
+  </kbd>
+  &nbsp;
+</div>
