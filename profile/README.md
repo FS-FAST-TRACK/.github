@@ -35,7 +35,7 @@ Feel free to reach out to us if you have any questions or if you're interested i
   &nbsp;
   &nbsp;
   <kbd>
-      <a href="https://github.com/FS-FAST-TRACK/QuizMaster" target="_blank">
+      <a href="https://github.com/FS-FAST-TRACK/QuizMaster-Mobile" target="_blank">
           <img width="200" height="200" src="https://raw.githubusercontent.com/FS-FAST-TRACK/QuizMaster/e852f2372619dd8c8a13d39d1f1757a51de762ec/WebApp/frontend/quiz_session/public/logo/Logo1.svg">
           <h3 align="center">QuizMaster Mobile</h3>
       </a>
