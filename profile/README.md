@@ -43,9 +43,27 @@ Feel free to reach out to us if you have any questions or if you're interested i
 </div>
 
 <div align="center">
-    <h1>Visionary Codemasters</h1>
+    <h1>Astounding Leaders</h1>
 </div>
 
+
+<div align="center">
+  <kbd>
+      <a href="https://github.com/FSrofernandez" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/146349653?s=128&v=4">
+      </a>
+  </kbd>
+  <kbd>
+      <a href="https://github.com/rnacu" target="_blank">
+          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/63323716?s=128&v=4">
+      </a>
+  </kbd>
+</div>
+
+
+<div align="center">
+    <h1>Visionary Codemasters</h1>
+</div>
 
 <div align="center">
   <kbd>
